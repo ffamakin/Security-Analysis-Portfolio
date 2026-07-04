@@ -33,7 +33,9 @@ Resolved Host on IP Address: c5s2-1e-syd.hosting-services.net.au (fromusing the 
 Hosting Service for Webpage: Blogspot
 <img width="801" height="312" alt="image" src="https://github.com/user-attachments/assets/80232273-c548-4004-a585-a9299e6dd96d" />
 FileName: Website contact form submission.eml
+
 <img width="443" height="93" alt="image" src="https://github.com/user-attachments/assets/c8702f5f-9c2f-4ec9-9598-5101523e7308" />
+
 spf=none; dmarc=none; dkim=none; arc=none these headers do not pass (The sending domain had not SPF, DKIM and DMARK which throwa up a red flag as we are unable to verify the sender's authenticity)
 
 #Verdict
