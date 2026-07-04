@@ -27,7 +27,9 @@ Q5:What is the date and time the email was sent? From the text editor: Wed, 14 J
 Q6: What is the URL of the main call-to-action button? Embedded in the "Review Account" button: hxxps[:]//emea01.safelinks.protection[.]outlook[.]com/?url=hxxps%3A%2F%2Famaozn[.]zzyuchengzhika.cn%2F%3Fmailtoken%3Dsaintington73%40outlook[.]com&data=04%7C01%7C%7C70072381ba6e49d1d12d08d94632811e%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637618004988892053%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=oPvTW08ASiViZTLfMECsvwDvguT6ODYKPQZNK3203m0%3D&reserved=0
 
 <img width="577" height="60" alt="image" src="https://github.com/user-attachments/assets/90ee7777-17c9-4a53-9bc4-54fcf36a5c63" />
+
 Q7:  What is the first sentence (heading) displayed on this site? This web page could not be loaded.
+
 <img width="513" height="127" alt="image" src="https://github.com/user-attachments/assets/a97df7bf-ae44-4643-98b7-0140f55f85d5" />
 Q8: When looking at the main body content in a text editor, what encoding scheme is being used?
 <img width="405" height="103" alt="image" src="https://github.com/user-attachments/assets/7257e826-663f-4832-8d07-895290f3e729" />
