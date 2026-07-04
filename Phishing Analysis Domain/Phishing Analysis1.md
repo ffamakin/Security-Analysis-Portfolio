@@ -41,7 +41,6 @@ spf=none; dmarc=none; dkim=none; arc=none these headers do not pass (The sending
 Confirmed malicious, financial scam (get-rich-quick lure) distributed via contact form abuse. No SPF/DKIM/DMARC, an originating IP belonging to a web hosting server rather than a mail provider.
 
 # Recommended response actions:
-=====================================
 Block the scam URLs and both IPs at th block list
 Search the mail environment for other messages containing the Blogspot domains and purge them
 Report the URLs to Google (already actioned- page removed) and the abused website's owner/host, so they can add CAPTCHA/validation to their contact form
