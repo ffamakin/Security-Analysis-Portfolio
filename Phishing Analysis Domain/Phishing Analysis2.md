@@ -31,9 +31,13 @@ Q6: What is the URL of the main call-to-action button? Embedded in the "Review A
 Q7:  What is the first sentence (heading) displayed on this site? This web page could not be loaded.
 
 <img width="513" height="127" alt="image" src="https://github.com/user-attachments/assets/a97df7bf-ae44-4643-98b7-0140f55f85d5" />
+
 Q8: When looking at the main body content in a text editor, what encoding scheme is being used?
 <img width="405" height="103" alt="image" src="https://github.com/user-attachments/assets/7257e826-663f-4832-8d07-895290f3e729" />
+
 Q9: What is the URL used to retrieve the company’s logo in the email? We will be making use of Cyberchef and copy the base 64 code for analysis.
 <img width="1507" height="812" alt="image" src="https://github.com/user-attachments/assets/ea4d009c-9cdf-4269-93ff-65a56b39a648" />
- hxxps[:]//images[.]squarespace-cdn[.]com/content/52e2b6d3e4b06446e8bf13ed/1500584238342-OX2L298XVSKF8AO6I3SV/amazon-logo?format=750w&amp;content-type=image%2Fpng
+ 
+hxxps[:]//images[.]squarespace-cdn[.]com/content/52e2b6d3e4b06446e8bf13ed/1500584238342-OX2L298XVSKF8AO6I3SV/amazon-logo?format=750w&amp;content-type=image%2Fpng
+ 
 Q10: For some unknown reason one of the URLs contains a Facebook profile URL. What is the username (not necessarily the display name) of this account, based on the URL? amir.boyka.7
